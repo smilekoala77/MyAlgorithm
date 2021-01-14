@@ -16,7 +16,7 @@ def liner(target_array, value):
         return None
 
 
-@pytest.mark.parametrize('value,index', [(1, 1), (10, 9), (78, 77), (391, None)])
+@pytest.mark.parametrize('value,index', [(1, 1), (10, 10), (77, 77), (391, None)])
 def test_liner(value, index):
     res = liner(target_array, value)
     assert res == index

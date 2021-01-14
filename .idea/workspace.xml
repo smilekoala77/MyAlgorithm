@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3de5fec-4db2-4f48-bc61-2074c8759e1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lwoqKF40EOzehSqfYrmaGTYBEy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.max_set">
+    <configuration name="heap_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heap_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quick_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quick_sort_partition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quick_sort_partition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.max_set" />
+        <item itemvalue="Python.heap_sort" />
+        <item itemvalue="Python.two_sum" />
+        <item itemvalue="Python.quick_sort_partition" />
+        <item itemvalue="Python.quick_sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3de5fec-4db2-4f48-bc61-2074c8759e1f" name="Default Changelist" comment="" />
+      <created>1608517703666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608517703666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom" timestamp="1610501936600">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1610501936600" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center" timestamp="1610501936595">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1610501936595" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left" timestamp="1610501936591">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1610501936591" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right" timestamp="1610501936599">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1610501936599" />
+    <state width="1379" height="270" key="GridCell.Tab.1.bottom" timestamp="1610501936640">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.1.bottom/0.23.1440.839@0.23.1440.839" timestamp="1610501936640" />
+    <state width="1379" height="270" key="GridCell.Tab.1.center" timestamp="1610501936632">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.1.center/0.23.1440.839@0.23.1440.839" timestamp="1610501936632" />
+    <state width="1379" height="270" key="GridCell.Tab.1.left" timestamp="1610501936618">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.1.left/0.23.1440.839@0.23.1440.839" timestamp="1610501936618" />
+    <state width="1379" height="270" key="GridCell.Tab.1.right" timestamp="1610501936634">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1379" height="270" key="GridCell.Tab.1.right/0.23.1440.839@0.23.1440.839" timestamp="1610501936634" />
+    <state x="201" y="81" key="SettingsEditor" timestamp="1608686205867">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="201" y="81" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1608686205867" />
+    <state x="365" y="186" width="670" height="676" key="search.everywhere.popup" timestamp="1610589558715">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="365" y="186" width="670" height="676" key="search.everywhere.popup/0.23.1440.839@0.23.1440.839" timestamp="1610589558715" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/two_sum.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/two_sum.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/max_set.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/max_set.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
